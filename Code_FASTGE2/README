@@ -1,0 +1,31 @@
+=======================
+FAST-GE-2.0 Readme File
+=======================
+
+---------------------------------
+Test Run of the synthetic example
+---------------------------------
+* run "main_synthetic.m"
+
+
+------------------------------
+Test Run of the image examples
+------------------------------
+* run "main_image.m"
+
+
+-----------
+Directories 
+-----------
+
+    data ........... Original images and constrained points
+	
+	eigensolvers ... Third part eigensolver, refering to 
+					 https://www.mathworks.com/matlabcentral/fileexchange/48-lobpcg-m
+					 
+	myfiles ........ Author's code
+	
+    ncutfiles ...... Part of the Ncut code, refering to
+					 https://www.cis.upenn.edu/~jshi/software/
+
+
